@@ -1,6 +1,7 @@
 {
   "projects": {
-    "telegramminiapp": "telegramminiappwithflutter"
+    "telegramminiapp": "telegramminiappwithflutter",
+    "default": "telegramminiappwithflutter"
   },
   "targets": {},
   "etags": {}
